@@ -1,0 +1,5 @@
+com\example\security\service\ProductService.class
+com\example\security\controller\ProductController.class
+com\example\security\CurdApiApplication.class
+com\example\security\repository\ProductRepository.class
+com\example\security\model\Product.class
